@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio02</string>
+    <string name="insiraA">Insira Valor A</string>
+    <string name="insiraB">Insira Valor B</string>
+    <string name="insiraC">Insira Valor C</string>
+    <string name="calcular">Calcular</string>
+</resources>
